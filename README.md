@@ -1,4 +1,6 @@
 # Mario-Animation
 Animação do Mario feita em CSS, HTML e Javascript
 
-<button>Clique aqui</button>
+<button>
+  <a href="https://jennibezarrias.github.io/Animation-Mario/mario/">Clique aqui</a>
+</button>
